@@ -3,7 +3,7 @@
        alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thruwol&layout=compact&theme=blueberry&hide=Makefile" 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thruwol&theme=blueberry&hide=Makefile, C" 
        alt="Top Langs" />
 </a>
 <!---
