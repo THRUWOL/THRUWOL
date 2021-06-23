@@ -4,8 +4,7 @@
 
 ### Languages and Tools
 
-<img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/cpp.png" alt="cpp" width="64"/>
-<img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/csp.png" alt="csp" width="64"/>
+<img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/cpp.png" alt="cpp" width="64"/><img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/csp.png" alt="csp" width="64"/>
 <img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/python.png" alt="python" width="64"/>
 <img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/sql.png" alt="sql" width="64"/>
 <img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/dnet.png" alt="dnet" width="64"/>
