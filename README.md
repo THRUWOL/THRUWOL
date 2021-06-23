@@ -4,12 +4,10 @@
 
 ### Languages and Tools
 
-<td>
-<tr><img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/csp.png" alt="drawing" width="64"/></tr>
-<tr><img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/csp.png" alt="drawing" width="64"/></tr>
-</td>
 
-![csp](https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/csp.png)
+
+![csp](https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/csp.png =64x)
+
 ![python](https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/python.png)
 ![sql](https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/sql.png)
 ![dnet](https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/dnet.png)
