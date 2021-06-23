@@ -4,7 +4,8 @@
 
 ### Languages and Tools
 
-![cpp](https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/cpp.png=250x)
+<img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/csp.png" alt="drawing" width="200"/>
+
 ![csp](https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/csp.png)
 ![python](https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/python.png)
 ![sql](https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/sql.png)
