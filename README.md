@@ -1,7 +1,7 @@
 ![Header](https://github.com/THRUWOL/THRUWOL/blob/main/assets/header.png)
 
-About me
+## I'm a Software Engeneer
 
-Languages and Tools
+### Languages and Tools
 
 Follow Me
