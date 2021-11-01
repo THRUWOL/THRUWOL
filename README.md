@@ -1,6 +1,1 @@
 ![Header](https://github.com/THRUWOL/THRUWOL/blob/main/assets/header.png)
-
-### Languages and Tools
-
- <img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/cpp.png" alt="cpp" title="C++" width="80"/> <img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/csp.png" alt="csp" title="C#" width="80"/> <img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/python.png" alt="python" title="Python" width="80"/> <img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/sql.png" alt="sql" title="SQL" width="80"/> <img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/dnet.png" alt="dnet" title=".NET" width="80"/> <img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/fsp.png" alt="fsp" title="F#" width="80"/> <img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/mongodb.png" alt="mongodb" title="MongoDB" width="80"/> <img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/vs.png" alt="vs" title="Visual Studio" width="80"/> <img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/vsc.png" alt="vsc" title="Visual Studio Code" width="80"/> <img src="https://github.com/THRUWOL/THRUWOL/blob/main/assets/logo/wtf.png" alt="wtf" title="What kind of Pokemon is this?" width="80"/> 
-
